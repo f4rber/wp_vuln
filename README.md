@@ -1,7 +1,8 @@
 # wp_vuln
 Simple parser that helps you find known vulnerable WordPress plugins
 ```
-usage: wp_vuln.py [-h] [-v] [-t THREADS] [-u URL]
+Usage: wp_vuln.py [-h] [-v] [-t THREADS] [-u URL]
+If you want to scan a file with IP/sites, then just create wp_hosts.txt and put inside targets
 
 options:
   -h, --help            show this help message and exit
