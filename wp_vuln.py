@@ -96,13 +96,15 @@ def wp_vuln(url):
         try:
             plugins_req = header_gen().request("GET", url + p.split("|")[0], retries=Retry(2), timeout=Timeout(30))
             if plugins_req.status == 200:
-                if "-" in p.split("|")[1]:
-                    if p.split("|")[1].split("-")[1].split(",")[0] not in plugins_req.data.decode("utf-8", "ignore") and p.split("|")[1].split(",")[1] in plugins_req.data.decode("utf-8", "ignore"):
+                versions = p.split("|")[1].split(",")
+                if "-" in versions[0]:
+                    if versions[0].split("-")[0] in plugins_req.data.decode("utf-8", "ignore") and versions[0].split("-")[1] not in plugins_req.data.decode("utf-8", "ignore") and versions[1] in plugins_req.data.decode("utf-8", "ignore"):
                         if args.verbose:
-                            print(p.split("|")[2])
+                            print(f"{url}{p.split('|')[0]} {p.split('|')[2]}\n")
                         f = open("wp_vuln.txt", "a", encoding="utf-8")
                         f.write(f"{url}{p.split('|')[0]} {p.split('|')[2]}\n")
                         f.close()
+
                 else:
                     if p.split("|")[1].split("+")[1].split(",")[0] in plugins_req.data.decode("utf-8", "ignore") and p.split("|")[1].split(",")[1] in plugins_req.data.decode("utf-8", "ignore"):
                         if args.verbose:
