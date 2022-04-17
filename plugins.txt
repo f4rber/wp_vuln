@@ -1,11 +1,11 @@
-/wp-content/plugins/perfect-survey/readme.txt|-1.5.2,Perfect Survey|WP_Plugin_Perfect_Survey_1.5.1_SQLi_https://www.exploit-db.com/exploits/50766
-/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt|-2.7.6,MasterStudy LMS – WordPress LMS Plugin|WP_Plugin_MasterStudy_LMS_2.7.5_Unauthenticated_Admin_Account_Creation_https://www.exploit-db.com/exploits/50752
-/wp-content/plugins/secure-copy-content-protection/README.txt|-2.8.2,Secure Copy Content Protection and Content Locking|WP_Plugin_Secure_Copy_Content_Protection_and_Content_Locking_2.8.1_SQLi_(Unauthenticated)_https://www.exploit-db.com/exploits/50733
-/wp-content/plugins/modern-events-calendar-lite/readme.txt|-6.1.5,Modern Events Calendar Lite|WP_Plugin_Modern_Events_Calendar_6.1_SQLi_(Unauthenticated)_https://www.exploit-db.com/exploits/50687
-/wp-content/plugins/seo-local-rank/readme.txt|-2.2.4,True Ranker|WP_Plugin_The_True_Ranker_2.2.2_Arbitrary_File_Read_(Unauthenticated)_https://www.exploit-db.com/exploits/50624
-/wp-content/plugins/dzs-zoomsounds/|-403,Index of|https://www.exploit-db.com/exploits/50564,https://www.exploit-db.com/exploits/50753
-/wp-content/plugins/duplicator/readme.txt|+1.3.26, Duplicator - WordPress Migration Plugin|WP_Plugin_Duplicator_1.3.26_Unauthenticated_Arbitrary_File_Read_https://www.exploit-db.com/exploits/50420,https://www.exploit-db.com/exploits/49288
-/wp-content/plugins/modern-events-calendar-lite/readme.txt|-5.16.2,Modern Events Calendar Lite|WP_Plugin_Modern_Events_Calendar_5.16.2_Event_export_(Unauthenticated)_https://www.exploit-db.com/exploits/50084
-/wp-content/plugins/wpdiscuz/readme.txt|-7.0.5,wpDiscuz|WP_Plugin_wpDiscuz_7.0.4_RCE_(Unauthenticated)_https://www.exploit-db.com/exploits/49967,https://www.exploit-db.com/exploits/49962
-/wp-content/plugins/wp-statistics/readme.txt|-13.0.8,WP Statistics|WP_Plugin_WP-Statistics_13.0.7_Time-Based_Blind_SQLi_(Unauthenticated)_https://www.exploit-db.com/exploits/49894
-/wp-content/plugins/email-subscribers/readme.txt|-4.2.3,Email Subscribers & Newsletters|WP_Plugin_Email_Subscribers_Newsletters_4.2.2_SQLi_File_Download_https://www.exploit-db.com/exploits/48699,https://www.exploit-db.com/exploits/48698
+/wp-content/plugins/perfect-survey/readme.txt|1.5.1-1.5.2,Perfect Survey|WP_Plugin_Perfect_Survey_1.5.1_SQLi_https://www.exploit-db.com/exploits/50766
+/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt|2.7.5-2.7.6,MasterStudy LMS – WordPress LMS Plugin|WP_Plugin_MasterStudy_LMS_2.7.5_Unauthenticated_Admin_Account_Creation_https://www.exploit-db.com/exploits/50752
+/wp-content/plugins/secure-copy-content-protection/README.txt|2.8.1-2.8.2,Secure Copy Content Protection and Content Locking|WP_Plugin_Secure_Copy_Content_Protection_and_Content_Locking_2.8.1_SQLi_(Unauthenticated)_https://www.exploit-db.com/exploits/50733
+/wp-content/plugins/modern-events-calendar-lite/readme.txt|6.1.0-6.1.5,Modern Events Calendar Lite|WP_Plugin_Modern_Events_Calendar_6.1_SQLi_(Unauthenticated)_https://www.exploit-db.com/exploits/50687
+/wp-content/plugins/seo-local-rank/readme.txt|2.1.9-2.2.4,True Ranker|WP_Plugin_The_True_Ranker_2.2.2_Arbitrary_File_Read_(Unauthenticated)_https://www.exploit-db.com/exploits/50624
+/wp-content/plugins/duplicator/readme.txt|1.3.26-1.3.28,Duplicator - WordPress Migration Plugin|WP_Plugin_Duplicator_1.3.26_Unauthenticated_Arbitrary_File_Read_https://www.exploit-db.com/exploits/50420,https://www.exploit-db.com/exploits/49288
+/wp-content/plugins/modern-events-calendar-lite/readme.txt|5.16.2-5.16.5,Modern Events Calendar Lite|WP_Plugin_Modern_Events_Calendar_5.16.2_Event_export_(Unauthenticated)_https://www.exploit-db.com/exploits/50084
+/wp-content/plugins/wpdiscuz/readme.txt|7.0.4-7.0.5,wpDiscuz|WP_Plugin_wpDiscuz_7.0.4_RCE_(Unauthenticated)_https://www.exploit-db.com/exploits/49967,https://www.exploit-db.com/exploits/49962
+/wp-content/plugins/wp-statistics/readme.txt|13.0.7-13.0.8,WP Statistics|WP_Plugin_WP-Statistics_13.0.7_Time-Based_Blind_SQLi_(Unauthenticated)_https://www.exploit-db.com/exploits/49894
+/wp-content/plugins/email-subscribers/readme.txt|4.2.2-4.2.3,Email Subscribers & Newsletters|WP_Plugin_Email_Subscribers_Newsletters_4.2.2_SQLi_File_Download_https://www.exploit-db.com/exploits/48699,https://www.exploit-db.com/exploits/48698
+/wp-content/plugins/elementor/readme.txt|3.6.0-3.6.3,Elementor Website Builder|WP_Elementor_RCE_https://github.com/mcdulltii/CVE-2022-1329
